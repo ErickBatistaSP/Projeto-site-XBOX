@@ -1,0 +1,22 @@
+.contato{
+    background-color: white;
+    padding: 3em;
+}
+
+.contato__div{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.contato__titulo{
+    font-weight: 500;
+    font-size: 22px;
+    color: black;
+
+}
+
+.contato__link__imagens{
+    width: 30px;
+    height: 30px;
+}

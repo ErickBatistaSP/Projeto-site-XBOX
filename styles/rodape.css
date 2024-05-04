@@ -1,0 +1,37 @@
+hr{
+    margin: 0;
+}
+
+.rodape {
+    display: flex;
+    background-color: rgb(246, 246, 246);
+    padding: 3em;
+    padding-bottom: 6em;
+
+}
+
+.rodape__titulo{
+    color: rgb(111, 111, 111);
+    font-size: 17px;
+    font-weight: 700;
+    margin: 2em;
+}
+
+.lista__rodape__itens{
+    margin: 2em;
+}
+
+.lista__rodape__link{
+    text-decoration: none;
+    color: rgb(111, 111, 111);
+}
+
+.rodape__final{
+    background-color: #58ff2a;
+    padding: 1em;
+}
+
+.rodape__final__titulo{
+    text-align: center;
+    font-size: 22px
+}
